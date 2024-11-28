@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfoliopavlof/static/css/main.039bf95e.css",
+    "main.js": "/portfoliopavlof/static/js/main.90fdc904.js",
+    "static/media/PavloFilonenko.png": "/portfoliopavlof/static/media/PavloFilonenko.a38c3d029eb7397e803a.png",
+    "static/media/Hello.gif": "/portfoliopavlof/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/sass-icon.svg": "/portfoliopavlof/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/docker-icon.svg": "/portfoliopavlof/static/media/docker-icon.81497262d68cc4b524508c0ffb9ea19e.svg",
+    "static/media/aws-icon.svg": "/portfoliopavlof/static/media/aws-icon.7772badca92aa96d40731b6f7e9691af.svg",
+    "static/media/node-icon.svg": "/portfoliopavlof/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/atom.svg": "/portfoliopavlof/static/media/atom.b495465c634927c92e64efbd700d4922.svg",
+    "static/media/jest-icon.svg": "/portfoliopavlof/static/media/jest-icon.4c688a031d514841de69f295f132c02d.svg",
+    "static/media/typescript-icon.svg": "/portfoliopavlof/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/whatsapp.svg": "/portfoliopavlof/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/portfoliopavlof/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
+    "static/media/react-icon.svg": "/portfoliopavlof/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "index.html": "/portfoliopavlof/index.html",
+    "static/media/discordIcon.svg": "/portfoliopavlof/static/media/discordIcon.d1d464bd6481a21fcde599e0d8699273.svg",
+    "static/media/telegram.svg": "/portfoliopavlof/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/graphql-icon.svg": "/portfoliopavlof/static/media/graphql-icon.e8a1598e7c16451bc369c931de0ffb83.svg",
+    "static/media/phone-icon.svg": "/portfoliopavlof/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/github.svg": "/portfoliopavlof/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/vitejs-icon.svg": "/portfoliopavlof/static/media/vitejs-icon.3ace8ee7f1d0f5a0517a545bc8300bd3.svg",
+    "static/media/email-icon.svg": "/portfoliopavlof/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/redux-icon.svg": "/portfoliopavlof/static/media/redux-icon.b889eae0f899df274157cd466d3df1ed.svg",
+    "static/media/html-icon.svg": "/portfoliopavlof/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/portfoliopavlof/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/vscode-icon.svg": "/portfoliopavlof/static/media/vscode-icon.7bfadaaeba8770093f98a79aa2c77d41.svg",
+    "static/media/next-icon.svg": "/portfoliopavlof/static/media/next-icon.4d2fc99d9132ed986ac7a495a4a63b75.svg",
+    "static/media/tailwindcss-icon.svg": "/portfoliopavlof/static/media/tailwindcss-icon.3fb4ed6879381a4e1e33e6263c30069e.svg",
+    "static/media/linkedin.svg": "/portfoliopavlof/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/portfoliopavlof/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/webpack-icon.svg": "/portfoliopavlof/static/media/webpack-icon.13a2ec589b479c65954dd330a365fb7d.svg",
+    "static/media/materialui-icon.svg": "/portfoliopavlof/static/media/materialui-icon.0d0922436ca57032d1e57713e94c356d.svg",
+    "main.039bf95e.css.map": "/portfoliopavlof/static/css/main.039bf95e.css.map",
+    "main.90fdc904.js.map": "/portfoliopavlof/static/js/main.90fdc904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.90fdc904.js"
+  ]
+}
