@@ -2,15 +2,7 @@
 export const projectsData = [
     {
         name: 'CircuitNFT Marketplace',
-        tools: `[
-            'React.js',
-            'Chakra-UI',
-            'Web3.js',
-            'Node.js',
-            'MongoDB',
-            'Solidity',
-            'ApexCharts',
-            'Docker'
+        tools: `[ 'React.js', 'Chakra-UI', 'Web3.js', 'Ethers.js', ' 'Node.js', 'MongoDB', 'Solidity', 'ApexCharts', 'Docker'
         ]`,
         myRole: 'Frontend Developer',
         description: 'Developed the frontend for CircuitNFT, a decentralised NFT marketplace leveraging React.js and Chakra-UI for an intuitive user experience. Integrated blockchain functionality using Web3.js for seamless NFT creation, buying, and selling. Collaborated closely with backend developers to implement RESTful APIs and ensured efficient interaction with Ethereum smart contracts. Built reusable components, managed state using Redux, and implemented data visualisation with ApexCharts. Optimised code structure for scalability and maintainability, adhering to the microservices architecture of the platform.',
