@@ -1,6 +1,36 @@
 
 export const projectsData = [
     {
+        name: 'CircuitNFT Marketplace',
+        tools: [
+            'React.js',
+            'Chakra-UI',
+            'Web3.js',
+            'Node.js',
+            'MongoDB',
+            'Solidity',
+            'ApexCharts',
+            'Docker'
+        ],
+        myRole: 'Frontend Developer',
+        description: 'Developed the frontend for CircuitNFT, a decentralised NFT marketplace leveraging React.js and Chakra-UI for an intuitive user experience. Integrated blockchain functionality using Web3.js for seamless NFT creation, buying, and selling. Collaborated closely with backend developers to implement RESTful APIs and ensured efficient interaction with Ethereum smart contracts. Built reusable components, managed state using Redux, and implemented data visualisation with ApexCharts. Optimised code structure for scalability and maintainability, adhering to the microservices architecture of the platform.',
+        link: 'https://github.com/PhilosTech/CircuitNFT',
+    },
+    {
+        name: 'ProdStat React Dashboard',
+        tools: ['React.js', 'Material-UI', 'TypeScript', 'ApexCharts', 'Vite.js', 'React Router'],
+        myRole: 'Frontend Developer',
+        description: 'Developed an admin dashboard application showcasing the integration of React.js with Material-UI and Vite.js for a high-performance and modern user interface. Implemented various sections, including a products management page, user profile page, and data visualisation using ApexCharts. Utilised modular architecture to ensure maintainability and scalability. Configured custom themes and reusable components, optimising for reusability and user experience. Included a robust routing system with React Router and ensured code quality with linting and formatting tools.',
+        link: 'https://github.com/PhilosTech/prodstat-react-mui',
+    },
+    {
+        name: 'Next.js MongoDB LiveChat',
+        tools: `['Next.js', 'React.js', 'Node.js', 'Express', 'MongoDB', 'WebSockets', 'TypeScript', 'Tailwind CSS', 'Jest', 'Docker']`,
+        myRole: 'Full Stack Developer',
+        description: 'Developed a real-time chat application with Next.js and MongoDB, enabling personal and group messaging features. Designed a modular architecture for the frontend and backend, ensuring clean separation of concerns. Implemented user authentication using JWT and managed chat data using RESTful APIs. Added WebSocket integration to enable real-time message updates and notifications. Styled the application with Tailwind CSS and ensured a responsive, user-friendly UI. Wrote unit tests for core functionalities using Jest and containerised the application with Docker for easy deployment and scalability.',
+        link: 'https://github.com/PhilosTech/next-node-mongo-livechat',
+    },
+    {
         name: 'Feedback Portal',
         tools: `['React', 'TypeScript', 'Material UI', 'Google Maps API', 'AWS SDK', 'Axios', 'Jest', 'Cypress']`,
         myRole: 'Full Stack Developer',
