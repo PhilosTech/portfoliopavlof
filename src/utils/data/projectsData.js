@@ -2,18 +2,7 @@
 export const projectsData = [
     {
         name: "Aura Chat",
-        tools: [
-            "Next.js",
-            "React.js",
-            "Tailwind CSS",
-            "Radix UI",
-            "Supabase",
-            "NextAuth.js",
-            "PostgreSQL",
-            "ProseMirror",
-            "AI SDK (OpenAI, Fireworks)",
-            "Framer Motion"
-        ],
+        tools: `[ "Next.js", "React.js", "Tailwind CSS", "Radix UI", "Supabase", "NextAuth.js", "PostgreSQL", "ProseMirror", "AI SDK (OpenAI, Fireworks)", "Framer Motion" ]`,
         myRole: "Full-Stack Developer",
         description: "Developed Aura Chat, an open-source AI-powered chatbot platform built with Next.js and Supabase. Implemented a modern, responsive UI using Tailwind CSS and Radix UI. Integrated AI models via AI SDKs, enabling advanced natural language processing. Managed authentication and database operations with NextAuth.js and PostgreSQL. Implemented real-time collaboration features using ProseMirror for rich text editing. Optimised performance with Server Actions and Resumable Rendering in Next.js.",
         link: "https://github.com/PhilosTech/aura-chat-ia-nextjs"
