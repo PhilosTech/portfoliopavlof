@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Pavlo Filonenko",
   profile: '/profile.png',
-  designation: "Software Developer",
+  designation: "Web Software Developer",
   yearExperience: "Years of Experience", 
   linkedin: "https://www.linkedin.com/in/pavlo-filonenko-65278820a/",
   resume: "https://drive.google.com/file/d/1gmjxMsgrXyzMyNj_bBVtLqfQjzYCcP0c/view?usp=sharing",

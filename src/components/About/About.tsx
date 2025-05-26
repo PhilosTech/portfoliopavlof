@@ -16,7 +16,7 @@ export function About() {
           delay={0.1 * 1000}
         >
           <p>
-            I'm a software developer dedicated to helping businesses create
+            I'm a web software developer dedicated to helping businesses create
             robust and scalable web applications. Whether you need to build a
             project from scratch, optimise an existing product, or enhance user
             experience, I bring the skills and expertise to deliver solutions
